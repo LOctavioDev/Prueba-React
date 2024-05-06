@@ -1,7 +1,7 @@
 export default function Post() {
-  return (
-    <>
-      <section className="post">
+    return (
+        <>
+        <section className="post">
         <article>
           <h2>Titulo del Articulo</h2>
           <p>
@@ -19,6 +19,6 @@ export default function Post() {
           </p>
         </article>
       </section>
-    </>
-  );
+        </>
+    )
 }
