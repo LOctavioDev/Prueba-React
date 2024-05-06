@@ -1,0 +1,10 @@
+$bcolor: blue;
+$fcolor: white;
+
+.container {
+  background-color: $bcolor;
+
+  .menu {
+    color: $fcolor;
+  }
+}
